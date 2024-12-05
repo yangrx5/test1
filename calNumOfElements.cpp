@@ -110,9 +110,11 @@
  void test(){
 	 
  }
+void test3(){
+}
 int main()
 {
-	printf("�����뻯ѧʽ��");
+	printf("ÇëÊäÈë»¯Ñ§Ê½£º");
 	string str;
 	cin>> str;
 	map<string,int> myMap = calNumOfElements2(str);
