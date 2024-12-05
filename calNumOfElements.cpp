@@ -107,6 +107,9 @@
     }
     return dest;
  }
+ void test(){
+	 
+ }
 int main()
 {
 	printf("请输入化学式：");
