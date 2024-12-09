@@ -120,6 +120,7 @@ void test3(){
 	int g;
 	
 	int m;
+	int s;
 }
 int main()
 {
