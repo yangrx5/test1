@@ -117,6 +117,7 @@ void test3(){
 	int f;
 	int d;
 	int e;
+	int g;
 }
 int main()
 {
