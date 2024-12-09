@@ -118,6 +118,8 @@ void test3(){
 	int d;
 	int e;
 	int g;
+	
+	int m;
 }
 int main()
 {
