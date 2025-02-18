@@ -141,8 +141,12 @@ int add(int val1,int val2){
 int subtract(int a,int b){
 	return a-b;
 }
+
 int divides(int a,int b){
 	return a/b;
+}
+int multiply(int a,int b){
+	return a+b;
 }
 int main()
 {
