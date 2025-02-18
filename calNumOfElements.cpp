@@ -146,7 +146,11 @@ int divides(int a,int b){
 	return a/b;
 }
 int multiply(int a,int b){
-	return a+b;
+	return a*b;
+}
+int power(int x,int y){
+	int temp = x;
+	while(y--)x = temp*x;
 }
 int factorial(int n){
 	if(n<=0) return 1;
