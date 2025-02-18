@@ -123,6 +123,7 @@ void test3(){
 	int s;
 	
 	int o;
+	int v;
 }
 int main()
 {
