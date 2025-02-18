@@ -125,8 +125,12 @@ void test3(){
 	int o;
 	int v;
 }
+
 void fun3(int value){
 	//todo
+}
+void fun(int value){
+	//ToDo
 }
 int main()
 {
