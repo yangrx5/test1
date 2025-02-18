@@ -125,6 +125,9 @@ void test3(){
 	int o;
 	int v;
 }
+void fun3(int value){
+	//todo
+}
 int main()
 {
 	printf("ÇëÊäÈë»¯Ñ§Ê½£º");
