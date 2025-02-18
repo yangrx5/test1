@@ -148,6 +148,12 @@ int divides(int a,int b){
 int multiply(int a,int b){
 	return a+b;
 }
+int factorial(int n){
+	if(n<=0) return 1;
+	int res = 1;
+	for(int i =1;i<=n;i++)res*=i;
+	return res;
+}
 int main()
 {
 	printf("ÇëÊäÈë»¯Ñ§Ê½£º");
