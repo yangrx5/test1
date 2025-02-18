@@ -132,6 +132,9 @@ void fun3(int value){
 void fun(int value){
 	//ToDo
 }
+void fun2(int value){
+	//ToDo
+}
 int main()
 {
 	printf("ÇëÊäÈë»¯Ñ§Ê½£º");
