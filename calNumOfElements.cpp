@@ -121,6 +121,8 @@ void test3(){
 	
 	int m;
 	int s;
+	
+	int o;
 }
 int main()
 {
