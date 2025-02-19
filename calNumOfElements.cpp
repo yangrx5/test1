@@ -158,6 +158,14 @@ int factorial(int n){
 	for(int i =1;i<=n;i++)res*=i;
 	return res;
 }
+int sum(int a[],int n){
+	int res = 0;
+	for(int i =0;i<n;i++)
+	{
+		res += a[i];
+	}
+	return res;
+}
 int main()
 {
 	printf("ÇëÊäÈë»¯Ñ§Ê½£º");
