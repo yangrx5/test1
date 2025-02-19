@@ -171,3 +171,9 @@ int main()
 	printf("\n");
 	return 0;
 }
+bool find(int val,int a[],int size){
+	for(int i=0;i<size;i++){
+		if(a[i]==val)return true;
+	}
+	return false;
+}
